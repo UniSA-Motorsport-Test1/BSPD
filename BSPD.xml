@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\GrabCAD\BSPD\BSPD.kicad_sch</source>
+    <date>19/09/2022 9:10:20 PM</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company>UniSA Motorsport</company>
+        <rev/>
+        <date/>
+        <source>BSPD.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>BSPD_Logic.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Inertal Measurement Unit/" tstamps="/c63a8991-0284-47fd-91be-ec2add9e1ca2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Inertal_Measurement_Unit.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>GCM0805_1u</value>
+      <footprint>UniSA_Motorsport_Capacitor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM0805_1u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8c9dd9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>GCM0805_1u</value>
+      <footprint>UniSA_Motorsport_Capacitor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM0805_1u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8ca1fa</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>GCM0805_1u</value>
+      <footprint>UniSA_Motorsport_Capacitor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM0805_1u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8ca567</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>GCM0805_1u</value>
+      <footprint>UniSA_Motorsport_Capacitor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM0805_1u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8caa06</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>GCM0805_1u</value>
+      <footprint>UniSA_Motorsport_Capacitor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM0805_1u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8c8dd2</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>GCM0805_1u</value>
+      <footprint>UniSA_Motorsport_Capacitor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM0805_1u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8c98e6</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Green"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d65457</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Green"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d7d08b</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Green"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d806b8</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4f1fa31-7e10-4ddb-a457-6e036065a12f</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f765aa0-700b-4325-bc2c-7ca27f90c984</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e29710b-2e47-4b38-ac8d-23693074091f</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50555b39-ff4e-45fe-9d04-de289646141f</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3da6bebc-174c-4026-8e37-10ff4517fe4d</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x39_Male</value>
+      <footprint>UniSA_Motorsport_Connector:Samtec_MECF-40-0_-L-DV_2x40_P1.27mm_Polarized_Edge</footprint>
+      <datasheet>https://au.mouser.com/c/connectors/card-edge-connectors/standard-card-edge-connectors/?m=Samtec&amp;series=MECF</datasheet>
+      <libsource lib="Connector" part="Conn_01x39_Male" description="Generic connector, single row, 01x39, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6328c19c-acc9-4cd6-928d-cf84ce5c89c9</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>DMN6075SQ-7</value>
+      <footprint>UniSA_Motorsport_SOT_TO:SOT-23-3</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMN6075SQ.pdf</datasheet>
+      <fields>
+        <field name="Constant Drain Current">2A</field>
+        <field name="Rds">69mOhms</field>
+        <field name="Vds">60V</field>
+        <field name="Vgs">20V</field>
+        <field name="Vth">3V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Transistor" part="DMN6075SQ-7" description=""/>
+      <property name="Vth" value="3V"/>
+      <property name="Vgs" value="20V"/>
+      <property name="Vds" value="60V"/>
+      <property name="Rds" value="69mOhms"/>
+      <property name="Constant Drain Current" value="2A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8b05f5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d65450</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f87be75</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f87f43c</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">1K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="1K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8c0d4f</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">1.5K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="1.5K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d7d084</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061d806b1</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c3acb5</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c4c471</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>RT4656</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.jaycar.com.au/100kohm-spectrol-25-turn-trimpot/p/RT4656</datasheet>
+      <fields>
+        <field name="Resistance">100K</field>
+      </fields>
+      <libsource lib="Device" part="R_POT" description=""/>
+      <property name="Resistance" value="100K"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006233e9ed</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM7805</value>
+      <footprint>UniSA_Motorsport_SOT_TO:SOT-223-4</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm340.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe</datasheet>
+      <fields>
+        <field name="Current Rating">1.5A</field>
+        <field name="Fixed Ouptut">5V</field>
+        <field name="Max Input">35V</field>
+      </fields>
+      <libsource lib="BSPD-rescue" part="LM7805-UniSA_Motorsport_Regulator" description=""/>
+      <property name="Max Input" value="35V"/>
+      <property name="Fixed Ouptut" value="5V"/>
+      <property name="Current Rating" value="1.5A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f867740</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LM7902D</value>
+      <footprint>UniSA_Motorsport_SO:SOIC-14</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/lm2902.pdf</datasheet>
+      <libsource lib="BSPD-rescue" part="LM7902D-UniSA_Motorsport_OpAmp" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005f74d69b</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>LM7902D</value>
+      <footprint>UniSA_Motorsport_SO:SOIC-14</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/lm2902.pdf</datasheet>
+      <libsource lib="BSPD-rescue" part="LM7902D-UniSA_Motorsport_OpAmp" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="BSPD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c3ac9a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>GCM0805_2.2u</value>
+      <footprint>UniSA_Motorsport_Capacitor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Voltage Rating">16V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM0805_2.2u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="16V"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8cdb58</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c538b8</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c5d3c6</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c8a7b9</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c8e763</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061cea1a6</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Red</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Red"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061cef757</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED_0805</value>
+      <footprint>UniSA_Motorsport_Diode:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</datasheet>
+      <fields>
+        <field name="Color">Green</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Diode" part="LED_0805" description="Light emitting diode"/>
+      <property name="Color" value="Green"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061d3fbc0</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">220K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="220K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f753a7d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">1K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="1K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8c4ebb</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">1K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="1K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8cba4a</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">1K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="1K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8e2ac6</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8d7de8</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8daa57</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8dd768</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100K</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100K"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f8e02f0</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">150R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="150R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c522a7</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">150R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="150R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c5d3bb</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">150R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="150R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c8a7ae</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">150R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="150R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c8e758</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">150R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="150R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061cea19b</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">150R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="150R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061cef74c</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>CRCW0805</value>
+      <footprint>UniSA_Motorsport_Resistor:0805</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</datasheet>
+      <fields>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+        <field name="Power Rating">125mW</field>
+        <field name="Resistance">100R</field>
+        <field name="Voltage Rating">150V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Resistor" part="CRCW0805" description="Resistor, US symbol"/>
+      <property name="Resistance" value="100R"/>
+      <property name="Voltage Rating" value="150V"/>
+      <property name="Power Rating" value="125mW"/>
+      <property name="E24 Values" value="http://www.ohmslawcalculator.com/e24-resistor-sizes"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061d3fbb5</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>RT4656</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.jaycar.com.au/100kohm-spectrol-25-turn-trimpot/p/RT4656</datasheet>
+      <fields>
+        <field name="Resistance">100K</field>
+      </fields>
+      <libsource lib="Device" part="R_POT" description=""/>
+      <property name="Resistance" value="100K"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-0000622f401d</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>RT4656</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.jaycar.com.au/100kohm-spectrol-25-turn-trimpot/p/RT4656</datasheet>
+      <fields>
+        <field name="Resistance">100K</field>
+      </fields>
+      <libsource lib="Device" part="R_POT" description=""/>
+      <property name="Resistance" value="100K"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000062319c8b</tstamps>
+    </comp>
+    <comp ref="RV4">
+      <value>RT4656</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.jaycar.com.au/100kohm-spectrol-25-turn-trimpot/p/RT4656</datasheet>
+      <fields>
+        <field name="Resistance">100K</field>
+      </fields>
+      <libsource lib="Device" part="R_POT" description=""/>
+      <property name="Resistance" value="100K"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00006231e5a0</tstamps>
+    </comp>
+    <comp ref="RV5">
+      <value>RT4656</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.jaycar.com.au/100kohm-spectrol-25-turn-trimpot/p/RT4656</datasheet>
+      <fields>
+        <field name="Resistance">100K</field>
+      </fields>
+      <libsource lib="Device" part="R_POT" description=""/>
+      <property name="Resistance" value="100K"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000062322d57</tstamps>
+    </comp>
+    <comp ref="RV6">
+      <value>RT4656</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.jaycar.com.au/100kohm-spectrol-25-turn-trimpot/p/RT4656</datasheet>
+      <fields>
+        <field name="Resistance">100K</field>
+      </fields>
+      <libsource lib="Device" part="R_POT" description=""/>
+      <property name="Resistance" value="100K"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-0000623272c2</tstamps>
+    </comp>
+    <comp ref="RV7">
+      <value>RT4656</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.jaycar.com.au/100kohm-spectrol-25-turn-trimpot/p/RT4656</datasheet>
+      <fields>
+        <field name="Resistance">100K</field>
+      </fields>
+      <libsource lib="Device" part="R_POT" description=""/>
+      <property name="Resistance" value="100K"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00006232bb27</tstamps>
+    </comp>
+    <comp ref="RV8">
+      <value>RT4656</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>https://www.jaycar.com.au/100kohm-spectrol-25-turn-trimpot/p/RT4656</datasheet>
+      <fields>
+        <field name="Resistance">100K</field>
+      </fields>
+      <libsource lib="Device" part="R_POT" description=""/>
+      <property name="Resistance" value="100K"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00006233004c</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>CD4081BM96</value>
+      <footprint>UniSA_Motorsport_SO:SOIC-14</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd4069ub.pdf?ts=1588337277788</datasheet>
+      <libsource lib="UniSA_Motorsport_Logic" part="CD4081BM96" description="Quad And 2 inputs"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f7d4ba8 00000000-0000-0000-0000-00005f7d69cd 00000000-0000-0000-0000-00005f7d5c25 00000000-0000-0000-0000-00005f7d3ec6 00000000-0000-0000-0000-00005f7d15b5</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>CD4071BM96</value>
+      <footprint>UniSA_Motorsport_SO:SOIC-14</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/cd4069ub.pdf?ts=1588337277788</datasheet>
+      <libsource lib="UniSA_Motorsport_Logic" part="CD4071BM96" description="Quad Or 2 inputs"/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-00005f82e5cd 00000000-0000-0000-0000-00005f82be70 00000000-0000-0000-0000-00005f829caf 00000000-0000-0000-0000-00005f82d91d 00000000-0000-0000-0000-00005f827d4f</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>LM7902D</value>
+      <footprint>UniSA_Motorsport_SO:SOIC-14</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/lm2902.pdf</datasheet>
+      <libsource lib="BSPD-rescue" part="LM7902D-UniSA_Motorsport_OpAmp" description=""/>
+      <property name="Sheetname" value="BSPD Logic"/>
+      <property name="Sheetfile" value="BSPD_Logic.kicad_sch"/>
+      <sheetpath names="/BSPD Logic/" tstamps="/00000000-0000-0000-0000-00005f7279bf/"/>
+      <tstamps>00000000-0000-0000-0000-000061c7dd32 00000000-0000-0000-0000-000061c810d3 00000000-0000-0000-0000-000061cd1197 00000000-0000-0000-0000-000061c7a589 00000000-0000-0000-0000-00005f732120</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>GCM1206_100u</value>
+      <footprint>UniSA_Motorsport_Capacitor:1206</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Capacitance">100uF</field>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM1206_100u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="50V"/>
+      <property name="Capacitance" value="100uF"/>
+      <property name="Sheetname" value="Inertal Measurement Unit"/>
+      <property name="Sheetfile" value="Inertal_Measurement_Unit.kicad_sch"/>
+      <sheetpath names="/Inertal Measurement Unit/" tstamps="/c63a8991-0284-47fd-91be-ec2add9e1ca2/"/>
+      <tstamps>3e4dd9ff-f9f1-4682-aa30-66193056b7ea</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>GCM1206_22u</value>
+      <footprint>UniSA_Motorsport_Capacitor:1206</footprint>
+      <datasheet>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</datasheet>
+      <fields>
+        <field name="Capacitance">22uF</field>
+        <field name="Voltage Rating">25V</field>
+      </fields>
+      <libsource lib="UniSA_Motorsport_Capacitor" part="GCM1206_22u" description="Unpolarized capacitor"/>
+      <property name="Voltage Rating" value="25V"/>
+      <property name="Capacitance" value="22uF"/>
+      <property name="Sheetname" value="Inertal Measurement Unit"/>
+      <property name="Sheetfile" value="Inertal_Measurement_Unit.kicad_sch"/>
+      <sheetpath names="/Inertal Measurement Unit/" tstamps="/c63a8991-0284-47fd-91be-ec2add9e1ca2/"/>
+      <tstamps>759580c8-3df0-4276-9258-133e0451a82b</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Microfit_01x02_Vertical</value>
+      <footprint>UniSA_Motorsport_Connector:Molex_Micro-Fit_43650-0215_1x02_Vertical</footprint>
+      <libsource lib="UniSA_Motorsport_Connector" part="Microfit_01x02_Vertical" description="Molex"/>
+      <property name="Sheetname" value="Inertal Measurement Unit"/>
+      <property name="Sheetfile" value="Inertal_Measurement_Unit.kicad_sch"/>
+      <sheetpath names="/Inertal Measurement Unit/" tstamps="/c63a8991-0284-47fd-91be-ec2add9e1ca2/"/>
+      <tstamps>2ea12ede-da3f-4833-bd1f-4a3d3154dc98</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>P783-Q24-S12-S</value>
+      <footprint>UniSA_Motorsport_Others:P783-Q24-S12-S</footprint>
+      <datasheet>https://octopart.com/p783-q24-s12-s-cui-109470232?r=sp</datasheet>
+      <libsource lib="UniSA_Motorsport_Others" part="P783-Q24-S12-S" description="24V to 12V 3A DC DC converter"/>
+      <property name="Sheetname" value="Inertal Measurement Unit"/>
+      <property name="Sheetfile" value="Inertal_Measurement_Unit.kicad_sch"/>
+      <sheetpath names="/Inertal Measurement Unit/" tstamps="/c63a8991-0284-47fd-91be-ec2add9e1ca2/"/>
+      <tstamps>4f4cf2e9-057f-4e8f-b457-b1174ea8921e</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>Raspberry_Pi_4</value>
+      <footprint>UniSA_Motorsport_Others:Raspberry PI 4</footprint>
+      <libsource lib="UniSA_Motorsport_Others" part="Raspberry_Pi_4" description=""/>
+      <property name="Sheetname" value="Inertal Measurement Unit"/>
+      <property name="Sheetfile" value="Inertal_Measurement_Unit.kicad_sch"/>
+      <sheetpath names="/Inertal Measurement Unit/" tstamps="/c63a8991-0284-47fd-91be-ec2add9e1ca2/"/>
+      <tstamps>21d25f29-5422-4dde-9930-8411915af5f5</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="BSPD-rescue" part="LM7805-UniSA_Motorsport_Regulator">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7805-UniSA_Motorsport_Regulator</field>
+        <field name="Footprint">UniSA_Motorsport_SOT_TO:SOT-223-4</field>
+        <field name="Max Input">35V</field>
+        <field name="Fixed Ouptut">5V</field>
+        <field name="Current Rating">1.5A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="BSPD-rescue" part="LM7902D-UniSA_Motorsport_OpAmp">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7902D-UniSA_Motorsport_OpAmp</field>
+        <field name="Footprint">UniSA_Motorsport_SO:SOIC-14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="VSS" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x39_Male">
+      <description>Generic connector, single row, 01x39, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x39_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_POT">
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">Device_R_POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Capacitor" part="GCM0805_1u">
+      <description>Unpolarized capacitor</description>
+      <docs>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GCM0805_1u</field>
+        <field name="Footprint">UniSA_Motorsport_Capacitor:0805</field>
+        <field name="Datasheet">https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</field>
+        <field name="Voltage Rating">50V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Capacitor" part="GCM0805_2.2u">
+      <description>Unpolarized capacitor</description>
+      <docs>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GCM0805_2.2u</field>
+        <field name="Footprint">UniSA_Motorsport_Capacitor:0805</field>
+        <field name="Datasheet">https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</field>
+        <field name="Voltage Rating">16V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Capacitor" part="GCM1206_100u">
+      <description>Unpolarized capacitor</description>
+      <docs>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GCM1206_100u</field>
+        <field name="Footprint">UniSA_Motorsport_Capacitor:1206</field>
+        <field name="Datasheet">https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</field>
+        <field name="Voltage Rating">50V</field>
+        <field name="Capacitance">100uF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Capacitor" part="GCM1206_22u">
+      <description>Unpolarized capacitor</description>
+      <docs>https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GCM1206_22u</field>
+        <field name="Footprint">UniSA_Motorsport_Capacitor:1206</field>
+        <field name="Datasheet">https://au.mouser.com/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf</field>
+        <field name="Voltage Rating">16V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Connector" part="Microfit_01x02_Vertical">
+      <description>Molex</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Microfit_01x02_Vertical</field>
+        <field name="Footprint">UniSA_Motorsport_Connector:Molex_Micro-Fit_43650-0215_1x02_Vertical</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Diode" part="LED_0805">
+      <description>Light emitting diode</description>
+      <docs>https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_0805</field>
+        <field name="Footprint">UniSA_Motorsport_Diode:0805</field>
+        <field name="Datasheet">https://au.mouser.com/datasheet/2/109/Dialight_CBI_data_599-0805_Apr2018-1370606.pdf</field>
+        <field name="Color">Red, Blue, Green, Orange, Yellow</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Logic" part="CD4071BM96">
+      <description>Quad Or 2 inputs</description>
+      <docs>http://www.ti.com/lit/ds/symlink/cd4069ub.pdf?ts=1588337277788</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CD4071BM96</field>
+        <field name="Footprint">UniSA_Motorsport_SO:SOIC-14</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/cd4069ub.pdf?ts=1588337277788</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="output"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Logic" part="CD4081BM96">
+      <description>Quad And 2 inputs</description>
+      <docs>http://www.ti.com/lit/ds/symlink/cd4069ub.pdf?ts=1588337277788</docs>
+      <footprints>
+        <fp>DIP?14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CD4081BM96</field>
+        <field name="Footprint">UniSA_Motorsport_SO:SOIC-14</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/cd4069ub.pdf?ts=1588337277788</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="output"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="VSS" type="power_in"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="output"/>
+        <pin num="11" name="" type="output"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Others" part="P783-Q24-S12-S">
+      <description>24V to 12V 3A DC DC converter</description>
+      <docs>https://octopart.com/p783-q24-s12-s-cui-109470232?r=sp</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">P783-Q24-S12-S</field>
+        <field name="Footprint">UniSA_Motorsport_Others:P783-Q24-S12-S</field>
+        <field name="Datasheet">https://octopart.com/p783-q24-s12-s-cui-109470232?r=sp</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Ctrl" type="input"/>
+        <pin num="2" name="Vin" type="output"/>
+        <pin num="3" name="Vin" type="input"/>
+        <pin num="4" name="Vin" type="input"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="GND" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="Vout" type="output"/>
+        <pin num="10" name="Vout" type="output"/>
+        <pin num="11" name="Vout" type="output"/>
+        <pin num="12" name="Trim" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Others" part="Raspberry_Pi_4">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Raspberry_Pi_4</field>
+        <field name="Footprint">UniSA_Motorsport_Others:Raspberry PI 4</field>
+      </fields>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Resistor" part="CRCW0805">
+      <description>Resistor, US symbol</description>
+      <docs>https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">CRCW0805</field>
+        <field name="Footprint">UniSA_Motorsport_Resistor:0805</field>
+        <field name="Datasheet">https://au.mouser.com/datasheet/2/427/dcrcwe3-1762152.pdf</field>
+        <field name="Resistance">Give a E24 value</field>
+        <field name="Voltage Rating">150V</field>
+        <field name="Power Rating">125mW</field>
+        <field name="E24 Values">http://www.ohmslawcalculator.com/e24-resistor-sizes</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="UniSA_Motorsport_Transistor" part="DMN6075SQ-7">
+      <docs>https://www.diodes.com/assets/Datasheets/DMN6075SQ.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMN6075SQ-7</field>
+        <field name="Footprint">UniSA_Motorsport_SOT_TO:SOT-23-3</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/DMN6075SQ.pdf</field>
+        <field name="Vth">3V</field>
+        <field name="Vgs">20V</field>
+        <field name="Vds">60V</field>
+        <field name="Rds">69mOhms</field>
+        <field name="Constant Drain Current">2A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="BSPD-rescue">
+      <uri/>
+    </library>
+    <library logical="Connector">
+      <uri>D:\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>D:\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="UniSA_Motorsport_Capacitor">
+      <uri>E:/GrabCAD/UniSA KiCAD Libraries/symbol/UniSA_Motorsport_Capacitor.kicad_sym</uri>
+    </library>
+    <library logical="UniSA_Motorsport_Connector">
+      <uri>E:/GrabCAD/UniSA KiCAD Libraries/symbol/UniSA_Motorsport_Connector.kicad_sym</uri>
+    </library>
+    <library logical="UniSA_Motorsport_Diode">
+      <uri>E:/GrabCAD/UniSA KiCAD Libraries/symbol/UniSA_Motorsport_Diode.kicad_sym</uri>
+    </library>
+    <library logical="UniSA_Motorsport_Logic">
+      <uri>E:/GrabCAD/UniSA KiCAD Libraries/symbol/UniSA_Motorsport_Logic.kicad_sym</uri>
+    </library>
+    <library logical="UniSA_Motorsport_Others">
+      <uri>E:/GrabCAD/UniSA KiCAD Libraries/symbol/UniSA_Motorsport_Others.kicad_sym</uri>
+    </library>
+    <library logical="UniSA_Motorsport_Resistor">
+      <uri>E:/GrabCAD/UniSA KiCAD Libraries/symbol/UniSA_Motorsport_Resistor.kicad_sym</uri>
+    </library>
+    <library logical="UniSA_Motorsport_Transistor">
+      <uri>E:/GrabCAD/UniSA KiCAD Libraries/symbol/UniSA_Motorsport_Transistor.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="RV4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U2" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="14" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="10" pinfunction="Vout" pintype="output"/>
+      <node ref="U7" pin="11" pinfunction="Vout" pintype="output"/>
+      <node ref="U7" pin="9" pinfunction="Vout" pintype="output"/>
+    </net>
+    <net code="3" name="+24V">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="Vin" pintype="output"/>
+      <node ref="U7" pin="3" pinfunction="Vin" pintype="input"/>
+      <node ref="U7" pin="4" pinfunction="Vin" pintype="input"/>
+    </net>
+    <net code="4" name="BRAKE_LIGHT">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="5" name="BRAKE_SIG">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="6" name="BRAKE_SIG_AMP">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U5" pin="7" pintype="output"/>
+      <node ref="U5" pin="9" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="7" name="BSPD_TRIGGER">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U5" pin="14" pintype="output"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV8" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="12" pintype="input"/>
+      <node ref="U3" pin="13" pintype="input"/>
+      <node ref="U3" pin="5" pintype="input"/>
+      <node ref="U3" pin="6" pintype="input"/>
+      <node ref="U3" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="8" pintype="input"/>
+      <node ref="U3" pin="9" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U5" pin="11" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U6" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U6" pin="11" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U6" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U6" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U7" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U5" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="11" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(R7-Pad2)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="RV8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="RV4" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="RV5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="RV6" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="RV7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="output"/>
+      <node ref="U3" pin="1" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pintype="output"/>
+      <node ref="U3" pin="2" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pintype="output"/>
+      <node ref="U4" pin="1" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pintype="input"/>
+      <node ref="U5" pin="1" pintype="output"/>
+    </net>
+    <net code="34" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pintype="input"/>
+      <node ref="U6" pin="1" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pintype="input"/>
+      <node ref="U5" pin="8" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(RV1-Pad2)">
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(RV2-Pad2)">
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(RV3-Pad2)">
+      <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(RV4-Pad2)">
+      <node ref="RV4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(RV5-Pad2)">
+      <node ref="RV5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(RV6-Pad2)">
+      <node ref="RV6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(RV7-Pad2)">
+      <node ref="RV7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(RV8-Pad2)">
+      <node ref="RV8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U5" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(U3-Pad3)">
+      <node ref="U3" pin="3" pintype="output"/>
+      <node ref="U4" pin="12" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(U4-Pad3)">
+      <node ref="U4" pin="3" pintype="output"/>
+      <node ref="U4" pin="8" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(U4-Pad4)">
+      <node ref="U4" pin="4" pintype="output"/>
+      <node ref="U4" pin="9" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(U4-Pad10)">
+      <node ref="U4" pin="10" pintype="output"/>
+      <node ref="U4" pin="13" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(U6-Pad6)">
+      <node ref="U6" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="7" pintype="output"/>
+    </net>
+    <net code="50" name="Net-(U6-Pad8)">
+      <node ref="U6" pin="8" pintype="output"/>
+      <node ref="U6" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(U6-Pad13)">
+      <node ref="U6" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="14" pintype="output"/>
+    </net>
+    <net code="52" name="POWER_SIG">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="53" name="unconnected-(J2-Pad10)">
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(J2-Pad11)">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(J2-Pad12)">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(J2-Pad13)">
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(J2-Pad14)">
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(J2-Pad15)">
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(J2-Pad16)">
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(J2-Pad17)">
+      <node ref="J2" pin="17" pinfunction="Pin_17" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(J2-Pad18)">
+      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(J2-Pad19)">
+      <node ref="J2" pin="19" pinfunction="Pin_19" pintype="passive+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(J2-Pad20)">
+      <node ref="J2" pin="20" pinfunction="Pin_20" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(J2-Pad21)">
+      <node ref="J2" pin="21" pinfunction="Pin_21" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(J2-Pad22)">
+      <node ref="J2" pin="22" pinfunction="Pin_22" pintype="passive+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(J2-Pad23)">
+      <node ref="J2" pin="23" pinfunction="Pin_23" pintype="passive+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(J2-Pad24)">
+      <node ref="J2" pin="24" pinfunction="Pin_24" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(J2-Pad25)">
+      <node ref="J2" pin="25" pinfunction="Pin_25" pintype="passive+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(J2-Pad26)">
+      <node ref="J2" pin="26" pinfunction="Pin_26" pintype="passive+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(J2-Pad27)">
+      <node ref="J2" pin="27" pinfunction="Pin_27" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(J2-Pad28)">
+      <node ref="J2" pin="28" pinfunction="Pin_28" pintype="passive+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(J2-Pad29)">
+      <node ref="J2" pin="29" pinfunction="Pin_29" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(J2-Pad30)">
+      <node ref="J2" pin="30" pinfunction="Pin_30" pintype="passive+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(J2-Pad31)">
+      <node ref="J2" pin="31" pinfunction="Pin_31" pintype="passive+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(J2-Pad32)">
+      <node ref="J2" pin="32" pinfunction="Pin_32" pintype="passive+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(J2-Pad33)">
+      <node ref="J2" pin="33" pinfunction="Pin_33" pintype="passive+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(J2-Pad34)">
+      <node ref="J2" pin="34" pinfunction="Pin_34" pintype="passive+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(J2-Pad35)">
+      <node ref="J2" pin="35" pinfunction="Pin_35" pintype="passive+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(J2-Pad36)">
+      <node ref="J2" pin="36" pinfunction="Pin_36" pintype="passive+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(J2-Pad37)">
+      <node ref="J2" pin="37" pinfunction="Pin_37" pintype="passive+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(J2-Pad38)">
+      <node ref="J2" pin="38" pinfunction="Pin_38" pintype="passive+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(J2-Pad39)">
+      <node ref="J2" pin="39" pinfunction="Pin_39" pintype="passive+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pintype="output+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(U3-Pad10)">
+      <node ref="U3" pin="10" pintype="output+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U3-Pad11)">
+      <node ref="U3" pin="11" pintype="output+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U7-Pad1)">
+      <node ref="U7" pin="1" pinfunction="Ctrl" pintype="input+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U7-Pad12)">
+      <node ref="U7" pin="12" pinfunction="Trim" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
