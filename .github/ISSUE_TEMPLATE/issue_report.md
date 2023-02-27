@@ -1,7 +1,7 @@
 ---
 name: Issue report
 about: Create a report to help us improve
-title: "[ISSUE] *insert issue title*"
+title: "[ISSUE] insert issue title"
 labels: issue, unviewed
 ---
 
@@ -11,7 +11,7 @@ A clear and concise description of what the issue is.
 **To Reproduce**
 If applicable, steps to reproduce the behavior:
 eg:
-"sdasdsad
+"
 1. Power on
 2. Press button
 3. LED does not turn on
